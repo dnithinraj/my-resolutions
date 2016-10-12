@@ -1,2 +1,2 @@
 # my-resolutions
-Meteor and React for everyone - LevelupTuts
+Meteor and React for everyone
